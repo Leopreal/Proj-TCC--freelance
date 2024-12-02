@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "next/image";
 
 export default function Sobre() {
   return (
@@ -32,7 +32,7 @@ export default function Sobre() {
           clássicos até estilos contemporâneos e ousados. Nossos barbeiros são mestres em suas
           artes, treinados para realizar desde o corte impecável até a barbearia tradicional com
           navalha. Além disso, oferecemos tratamentos de cuidados com a pele e a barba, garantindo
-          que cada cliente saia não apenas com um novo visual, mas também com uma sensação renovada
+          que cada cliente saia n&apos;ao apenas com um novo visual, mas também com uma sensação renovada
           de confiança e bem-estar.
         </p>
         <p className="text-lg leading-relaxed text-justify text-gray-300">
@@ -42,7 +42,7 @@ export default function Sobre() {
           e livros para tornar sua visita ainda mais agradável.
         </p>
         <blockquote className="text-center text-xl italic font-semibold text-yellow-500">
-          "Proporcionar aos clientes autoestima e qualidade de vida."
+          &quot;Proporcionar aos clientes autoestima e qualidade de vida.&quot;
         </blockquote>
       </div>
     </section>
