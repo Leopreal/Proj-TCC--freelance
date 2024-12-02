@@ -3,7 +3,7 @@ import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import { useState } from 'react'
 
-const produtos = () => {
+const Produtos = () => {
   // Estado para armazenar os itens do carrinho
   const [carrinho, setCarrinho] = useState([])
 
@@ -145,4 +145,4 @@ const produtos = () => {
   );
 };
 
-export default produtos;
+export default Produtos;
